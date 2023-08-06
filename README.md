@@ -1,9 +1,9 @@
 [![Coding-where-art-and-logic-dance-together.png](https://i.postimg.cc/FRw1dJtP/Coding-where-art-and-logic-dance-together.png)](https://postimg.cc/LYBmG58f)
 
 # About Me: 
-# 👦 My Name is Prince Kumar Chaurasia.
-<h3> I am aspiring to be a - Software Development Engineer.</h3>
-<p>Ongoing <b>Project</b> - <a href="https://github.com/mr-dev-prince/Crypto-app">React-Web-App</a></p>
+<p> My Name is <b>Prince Kumar Chaurasia.</b></p>
+<p> I am aspiring to be a - <b>Software Development Engineer.</b></p>
+<p>Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app"><b>React-Web-App</b></a></p>
 <p>Fun-Fact - I think I like coding more than anything else. And yes, for real. :P</p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
@@ -28,4 +28,4 @@
 
 
 
-<h3> 01010000 01110010 01101001 01101110 01100011 01100101 00001010 </h3>
+<h3> <------01010000 01110010 01101001 01101110 01100011 01100101 00001010----> </h3>
