@@ -1,7 +1,7 @@
-[![MasterHead][![Coding-where-art-and-logic-dance-together.png](https://i.postimg.cc/FRw1dJtP/Coding-where-art-and-logic-dance-together.png)](https://postimg.cc/LYBmG58f)
+[![Coding-where-art-and-logic-dance-together.png](https://i.postimg.cc/FRw1dJtP/Coding-where-art-and-logic-dance-together.png)](https://postimg.cc/LYBmG58f)
 
 # 👦 About Me:
-<h1>Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app">React-Web-App</a></h1><br><h2>I am into - Full-Stack Web Development</h2><br><h3>Fun-Fact - I think I like coding more than anything else. And yes, for real. :P</h3>
+<p>Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app">React-Web-App</a></p><br><p>I am into - Full-Stack Web Development</p><br><p>Fun-Fact - I think I like coding more than anything else. And yes, for real. :P</p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
