@@ -1,7 +1,7 @@
 [![MasterHead](https://www.canva.com/design/DAFqwsFhtHI/IMzljTyCwP1ulSebV3RCZA/view?utm_content=DAFqwsFhtHI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://github.com/mr-dev-prince)
 
 # 👦 About Me:
-Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app">React-Web-App</a><br>I am into - Full-Stack Web Development<br>Fun-Fact - I think I like coding more than anything else. And yes, for real. :P
+<h1>Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app">React-Web-App</a></h1><br><h2>I am into - Full-Stack Web Development</h2><br><h3>Fun-Fact - I think I like coding more than anything else. And yes, for real. :P</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
@@ -24,4 +24,4 @@ Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app">React-We
 
 
 
-<h1> 01010000 01110010 01101001 01101110 01100011 01100101 00001010 </h1>
+<p> 01010000 01110010 01101001 01101110 01100011 01100101 00001010 </p>
