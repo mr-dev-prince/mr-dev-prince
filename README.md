@@ -1,7 +1,7 @@
 [![Coding-where-art-and-logic-dance-together.png](https://i.postimg.cc/FRw1dJtP/Coding-where-art-and-logic-dance-together.png)](https://postimg.cc/LYBmG58f)
 
 # 👦 About Me: My Name is Prince Kumar Chaurasia.
-<p font="bold" > I am aspiring to be a - Software Development Engineer.</p>
+<p font="900" > I am aspiring to be a - Software Development Engineer.</p>
 <p>Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app">React-Web-App</a></p>
 <p>Fun-Fact - I think I like coding more than anything else. And yes, for real. :P</p>
 
