@@ -1,4 +1,4 @@
-[![Coding-where-art-and-logic-dance-together.png](https://i.postimg.cc/FRw1dJtP/Coding-where-art-and-logic-dance-together.png)](https://postimg.cc/LYBmG58f)
+[![Coding-where-art-and-logic-dance-together-1-1.png](https://i.postimg.cc/wT9t7j2g/Coding-where-art-and-logic-dance-together-1-1.png)](https://postimg.cc/kDhMH9Lp)
 
 # About Me: 
 <p> My Name is <b>Prince Kumar Chaurasia.</b></p>
