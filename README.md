@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFqwsFhtHI/IMzljTyCwP1ulSebV3RCZA/view?utm_content=DAFqwsFhtHI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://github.com/mr-dev-prince)
+[![MasterHead][Coding-where-art-and-logic-dance-together.png](https://github.com/mr-dev-prince)
 
 # 👦 About Me:
 <h1>Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app">React-Web-App</a></h1><br><h2>I am into - Full-Stack Web Development</h2><br><h3>Fun-Fact - I think I like coding more than anything else. And yes, for real. :P</h3>
