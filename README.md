@@ -19,7 +19,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+### ![StonksChartGIF](https://github.com/mr-dev-prince/mr-dev-prince/assets/112185177/8225ee8d-acbb-4f82-8b8a-88a62eb98481)
+ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mr-dev-prince&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
