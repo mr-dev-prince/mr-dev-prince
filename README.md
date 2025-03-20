@@ -3,7 +3,6 @@
 # About Me: 
 <p> My Name is <b>Prince Kumar Chaurasia.</b></p>
 <p> I am aspiring to be a - <b>Software Development Engineer.</b></p>
-<p>Ongoing Project - <a href="https://github.com/mr-dev-prince/Crypto-app"><b>React-Web-App</b></a></p>
 <p font="bold">Fun-Fact - AI won’t replace software developers</p>
 <img height="250px" justify-self="right" src="https://i.postimg.cc/kXzX1zbF/vecteezy-software-engineer-png-graphic-clipart-design-20962986.png"/>
 
