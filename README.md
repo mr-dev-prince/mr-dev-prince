@@ -33,7 +33,7 @@
     <img alt="Instagram" height="30" src="https://cdn.simpleicons.org/instagram/E4405F" />
   </a>
   <a href="https://x.com/shutup_prince" target="_blank" rel="noopener noreferrer" title="Twitter / X">
-    <img alt="Twitter" height="30" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" />
+    <img alt="Twitter" height="30" src="https://i.ibb.co/jPhfrqLX/twitter.png" />
   </a>
 </div>
 
