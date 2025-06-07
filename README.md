@@ -1,4 +1,4 @@
-[![Banner]([https://ibb.co/ycTv8gQm](https://ibb.co/ycTv8gQm))
+[![Banner](https://ibb.co/ycTv8gQm)
 
 # About Me: 
 <p> My Name is <b>Prince Kumar Chaurasia.</b></p>
