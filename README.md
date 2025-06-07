@@ -25,17 +25,8 @@
 
 ### Connect with me
 
-<div style="display: flex; justify-content: center; gap: 30px; margin-top: 10px;">
-  <a href="https://linkedin.com/in/princechaurasia" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://instagram.com/dev_.prince" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" height="30" src="https://cdn.simpleicons.org/instagram/E4405F" />
-  </a>
-  <a href="https://x.com/shutup_prince" target="_blank" rel="noopener noreferrer" title="Twitter / X">
-    <img alt="Twitter" height="30" src="https://i.ibb.co/jPhfrqLX/twitter.png" />
-  </a>
-</div>
+### Socials Handles:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princechaurasia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_.prince) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/shutup_prince) 
 
 
 ### GitHub Stats:
