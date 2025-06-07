@@ -10,18 +10,19 @@
 
 ## Skills
 
-<div style="display: flex; justify-content: space-between; width: 700px; margin: auto; flex-wrap: wrap;">
-  <img alt="Javascript" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /> <span width="300"/>
-  <img alt="Java" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" /> <span width="30"/>
-  <img alt="Python" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain-wordmark.svg" /> <span width="30"/>
-  <img alt="Node.js" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" /> <span width="30"/>
-  <img alt="Spring Boot" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" /> <span width="30"/>
-  <img alt="React" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" /> <span width="30"/>
-  <img alt="CSS" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" /> <span width="30"/>
-  <img alt="MongoDB" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" /> <span width="30"/>
-  <img alt="PostgreSQL" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" /> <span width="30"/>
+<div style="display: flex; justify-content: space-between; width: 700px; margin: auto; flex-wrap: wrap; gap: 10px;">
+  <img alt="Javascript" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
+  <img alt="Java" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" />
+  <img alt="Python" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain-wordmark.svg" />
+  <img alt="Node.js" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img alt="Spring Boot" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" />
+  <img alt="React" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
+  <img alt="CSS" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" />
+  <img alt="MongoDB" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img alt="PostgreSQL" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" />
   <img alt="Redux" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redux/redux-original.svg" />
 </div>
+
 
 ## Connect with me
 
