@@ -1,4 +1,4 @@
-![Banner][https://ibb.co/ycTv8gQm](https://i.ibb.co/MxTwRPCy/1742541600137.jpg)
+![Banner](https://i.ibb.co/MxTwRPCy/1742541600137.jpg)
 
 # About Me: 
 <p> My Name is <b>Prince Kumar Chaurasia.</b></p>
