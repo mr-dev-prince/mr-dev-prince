@@ -8,10 +8,10 @@
 - Winner of two hackathons: **Citronics** and **Savishkar Madhya Pradesh**.
 - Finalist at **Smart India Hackathon 2023 (SIH'23)**, showcasing strong problem-solving and teamwork skills.
 
-### Education
+## Education:
 
 **Bachelor of Technology (B.Tech) in Computer Science**  
-[IES College Of Technology], [Bhopal, India]  
+IES College Of Technology, Bhopal, India  
 _August 2022 – Present_  
 - Currently in 6th semester  
 - Relevant coursework: Data Structures, Algorithms, Machine Learning, Computer Networks, Software Engineering  
@@ -19,13 +19,13 @@ _August 2022 – Present_
 - Achievements: Smart India Hackathon 2023 Finalist
 
 **Senior Secondary Education (Class 11 & 12)**  
-[Maharana Pratap Inter College], [Gorakhpur, India]  
+Maharana Pratap Inter College, Gorakhpur, India  
 _April 2020 – May 2022_  
 - Stream: Science with Mathematics
 - Percentage: 82%  
 
 **Secondary Education (Class 9 & 10)**  
-[PD Academy], [Deoria, India]  
+PD Academy, Deoria, India
 _April 2018 – March 2020_  
 - Percentage: 95%  
 
