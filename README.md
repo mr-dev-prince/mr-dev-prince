@@ -11,7 +11,7 @@
 ## Skills
 
 <div style="display: flex; justify-content: space-between; max-width: 700px; margin: auto; flex-wrap: wrap;">
-  <img alt="Javascript" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /> <span width="30"/>
+  <img alt="Javascript" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /> <span width="300"/>
   <img alt="Java" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" /> <span width="30"/>
   <img alt="Python" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain-wordmark.svg" /> <span width="30"/>
   <img alt="Node.js" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" /> <span width="30"/>
