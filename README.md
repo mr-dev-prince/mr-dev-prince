@@ -9,32 +9,30 @@
 - Finalist at **Smart India Hackathon 2023 (SIH'23)**, showcasing strong problem-solving and teamwork skills.
 
 ### Skills
-<p align="center">
+<p align="center" style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap; max-width: 700px; margin: auto;">
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Sass" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="Tailwind CSS" height="40" src="https://cdn.simpleicons.org/tailwindcss/38B2AC" />
   <img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Express" height="40" src="https://cdn.simpleicons.org/express" />
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Spring Boot" height="40" src="https://cdn.simpleicons.org/springboot/6DB33F" />
   <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Redux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </p>
 
 ### Connect with me
-<p align="center">
+<p align="center" style="display: flex; gap: 30px; justify-content: center;">
   <a href="https://linkedin.com/in/princechaurasia" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://instagram.com/dev_.prince" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />
+    <img alt="Instagram" height="30" src="https://cdn.simpleicons.org/instagram/E4405F" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/shutup_prince" target="_blank" rel="noopener noreferrer">
-    <img alt="Twitter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+    <img alt="Twitter" height="30" src="https://cdn.simpleicons.org/twitter/1DA1F2" />
   </a>
 </p>
 
