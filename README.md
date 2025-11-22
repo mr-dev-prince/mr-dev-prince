@@ -13,7 +13,7 @@
 **Bachelor of Technology (B.Tech) in Computer Science**  
 IES College Of Technology, Bhopal, India  
 _August 2022 – Present_  
-- Currently in 6th semester  
+- Currently in 7th semester  
 - Relevant coursework: Data Structures, Algorithms, Machine Learning, Computer Networks, Software Engineering  
 - Projects: Developed a full-stack web application for club elections management using React and Node.js  
 - Achievements: Smart India Hackathon 2023 Finalist
