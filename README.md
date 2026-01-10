@@ -48,13 +48,6 @@ _April 2018 – March 2020_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princechaurasia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_.prince) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/shutup_prince) 
 
-
-## GitHub Stats:
-<div style="display: flex; gap: 15px; justify-content: center; align-items: flex-start;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-dev-prince&theme=dark&hide_border=true" alt="GitHub Streak" height="180" style="border-radius: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-dev-prince&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180" style="border-radius: 10px;" />
-</div>
-
 ## Dev Quote:
 <p align="start">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote" />
