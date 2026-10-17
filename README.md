@@ -1,10 +1,16 @@
 # Prince Chaurasia
 
+<a href="https://www.devprince.space">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=2F81F7&vCenter=true&width=600&height=40&lines=Software+Engineer+at+Playarka;Full-stack+with+React,+Next.js,+Fastify+and+FastAPI;Firmware+in+C%2B%2B+on+ESP32+and+Jetson+Orin+Nano;Building+cool+things" alt="Software Engineer at Playarka, full-stack and firmware developer" />
+</a>
+
 **Software Engineer at [Playarka](https://playarka.com/)** · CSE · Firmware · AI
 
 I'm a computer science graduate working as a software engineer, focused on building scalable, maintainable products end to end. I work across the stack: React and Next.js on the frontend, Fastify and FastAPI on the backend, and PostgreSQL and MongoDB for data. I also work on firmware programming, bridging software with hardware.
 
-[Portfolio](https://www.devprince.space) · [LinkedIn](https://linkedin.com/in/princechaurasia) · [X](https://x.com/shutup_prince) · [LeetCode](https://leetcode.com/u/dev_prince/) · [Email](mailto:pkcofficial24@gmail.com) · [Resume](https://www.devprince.space/resume.pdf)
+**Visit my portfolio → [devprince.space](https://www.devprince.space)**
+
+[LinkedIn](https://linkedin.com/in/princechaurasia) · [X](https://x.com/shutup_prince) · [LeetCode](https://leetcode.com/u/dev_prince/) · [Email](mailto:pkcofficial24@gmail.com) · [Resume](https://www.devprince.space/resume.pdf)
 
 ---
 
